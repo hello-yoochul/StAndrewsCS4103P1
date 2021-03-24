@@ -3,6 +3,9 @@
 
 [GWT](http://www.gwtproject.org/overview.html) lets you write client-side applications in Java and deploy them as JavaScript.
 
+How to set up this library in the Intellij IDEA ->
+[Youtube](https://www.youtube.com/watch?v=0-HjCHh09H4&ab_channel=%D0%A3%D1%80%D0%BE%D0%BA%D0%B8Java)
+
 # Paxos Algorithm
 
 The message ("aaaa") from Client ID 1 can be delivered to other browsers. 
