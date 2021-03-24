@@ -1,4 +1,10 @@
 
+# GWT
+
+[GWT](http://www.gwtproject.org/overview.html) lets you write client-side applications in Java and deploy them as JavaScript.
+
+# Paxos Algorithm
+
 The message ("aaaa") from Client ID 1 can be delivered to other browsers. 
 
 ![image](https://user-images.githubusercontent.com/49010295/112318217-25d9c300-8cf0-11eb-8525-b7d777fa29e2.png)
